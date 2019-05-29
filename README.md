@@ -8,6 +8,8 @@ A PyTorch implementation of https://arxiv.org/abs/1812.01690
 - sklearn
 - [tensorboardX](https://github.com/lanpa/tensorboardX)
   - see the link for more dependencies
+## Data
+Please download NIH Chest X-ray dataset from [here](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 
 ## Train
 
